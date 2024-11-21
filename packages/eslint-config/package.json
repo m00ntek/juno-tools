@@ -4,7 +4,7 @@
   "dependencies": {
     "@babel/core": "^7",
     "@vercel/style-guide": "^3",
-    "eslint": "^8",
+    "eslint": "^9.15.0",
     "eslint-plugin-prettier": "^4",
     "eslint-plugin-simple-import-sort": "^7",
     "eslint-plugin-tailwindcss": "^3",
