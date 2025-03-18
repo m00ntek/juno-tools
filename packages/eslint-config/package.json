@@ -2,8 +2,8 @@
   "name": "@juno-tools/eslint-config",
   "version": "0.0.0",
   "dependencies": {
-    "@babel/core": "^7",
-    "@vercel/style-guide": "^3",
+    "@babel/core": "^7.26.10",
+    "@vercel/style-guide": "^5.0.0",
     "eslint": "^8",
     "eslint-plugin-prettier": "^4",
     "eslint-plugin-simple-import-sort": "^7",
